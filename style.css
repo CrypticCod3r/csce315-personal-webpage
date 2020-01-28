@@ -1,0 +1,82 @@
+body
+{
+	background-color:maroon;
+}
+
+table
+{
+	margin: auto;
+	width: 85%;
+	border: 0px;
+	background-color: white;
+}
+
+table[name="menu"]
+{
+	background-color: #e0e0e0;
+	margin: auto;
+	border: 2px solid black;
+	width: 90%;
+}
+
+a[name="menu"]
+{
+	color: black;
+	font-size: 23px;
+}
+
+p[name="menu"]
+{
+	color: #e0e0e0;
+	font-size: 15px;
+}
+
+p[name="space"]
+{
+	color: white;
+	font-size: 15px;
+}
+
+p[name="centered"]
+{
+	color: black;
+	font-size: 25px;
+	text-align: center;
+}
+
+p
+{
+	color: black;
+	font-size: 25px;
+	text-align: left;
+}
+
+ul
+{
+	color: black;
+	font-size: 25px;
+	text-align: left;
+}
+
+h3
+{
+	color: maroon;
+	font-size: 50px;
+}
+
+button
+{
+	font-size: 20px;
+}
+
+hr
+{
+	display: block;
+	margin-top: 0px;
+	margin-bottom: 2em;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-style: inset;
+	border-width: 1px;
+	border-color: black;
+}
